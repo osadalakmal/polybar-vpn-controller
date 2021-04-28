@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+"""
+returns country code for given country name
+"""
+
 from sys import argv
 
 # if a country you use isn't in here, open an issue or pull request
